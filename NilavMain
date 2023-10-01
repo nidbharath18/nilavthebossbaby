@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+
+    <body>
+        <main>
+
+        <section id="intro">
+            <article>
+                <h1>INTRODUCTION</h1>
+                <p>
+                    Hi Everyone ,<br>
+                    My Name is Nilav.<br> 
+                    I am 10 months old when this page was created and currently sleeping next to my dada at this particular moment,<br>
+                    This page contains many cherised memories of me with my family and friends right from my arrival to this world.<br>
+                    I was born on December 21st ,16:18 PM 2022 to Archana (my mama) and Nidhin (my dada).<br>
+                    Someday when i am old enough i can see this page and see how i was and how every one around me was.<br>
+                    Hopefully the future me loves this.<br><br>
+                    Your's Truelly <br>
+                    Nilav Nidhin (a.k.a The Boss Baby)<br><br>
+                    PS : Dada and Mama loves You 
+                </p>
+             </article>
+        </section>
+
+        <section id="photos">
+            <h2>Photos</h2>
+            <article>
+                <figure>
+
+                    <img src="pics/Nilav.jpg" width="200" height="200" alt="Nilav's First Photo Shoot">
+                    <figcaption>
+                        Nilav's First Photo Shoot
+                    </figcaption>
+                    
+                    <img src="pics/Nilav2.jpg" width="200" height="200" alt="Nilav's Second Picture">
+                    <figcaption>
+                        Nilav's Second Photo 
+                    </figcaption>
+                </figure>
+             </article>
+        </section>
+
+        </main>
+    </body>
+</html>
